@@ -161,6 +161,10 @@
     text-align: left;
     color: #ffffffff;
 }
+.nav-link:hover{
+    text-decoration: underline;
+    font-weight: 600;
+}
 
 .nav-btn {
     font-family: "Poppins", sans-serif;
@@ -823,6 +827,9 @@
     margin-top: 20px;
     cursor: pointer;
     width: fit-content;
+}
+.col-3-text:hover{
+    text-decoration: underline;
 }
 
 .pt-50 {
